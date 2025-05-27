@@ -10,7 +10,8 @@ git clone : " repolink "
     .\.venv\Scripts\activate
 
 3️⃣ Install Dependencies
-pip install -r requirements.txt
+* change directory to RestaurantCuisine_langchain and run : 
+                    pip install -r requirement.txt
 
 
 4️⃣ Navigate to the Main Directory
