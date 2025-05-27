@@ -14,6 +14,8 @@ git clone : " repolink "
                     pip install -r requirement.txt
 
 
+(REMEMBER TO PUT your GROQ key in the groqKey.py file)
+
 4️⃣ Navigate to the Main Directory
 cd RestaurantCuisine_langchain
 
