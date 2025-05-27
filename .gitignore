@@ -1,0 +1,5 @@
+.venv/
+langchainEnviorment/
+__pycache__/
+.env
+groqKey.py
